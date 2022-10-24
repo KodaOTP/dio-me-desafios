@@ -1,2 +1,2 @@
 # dio-me-desafios
-Criando repositorio para primeiro desafio de codigo.
+Repositorio destinado a entrega de desafios plataforma DIO.me
